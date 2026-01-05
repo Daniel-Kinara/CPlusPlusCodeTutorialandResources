@@ -14,10 +14,7 @@ private:
 public:
     string course;
 
-    void setRegNo(string reg)
-    {
-        regNo = reg;
-    }
+    void setRegNo(string reg){regNo = reg;}
 
     string getRegNo(){return regNo;}
 };
