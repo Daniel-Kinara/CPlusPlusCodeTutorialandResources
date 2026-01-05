@@ -29,7 +29,7 @@ int main()
 {
     student studentObj;
     studentObj.setRegNo("12b45");
-    studentObj.course = "Software Engineering";
+    studentObj.course = "Bachelor of Science Software Engineering";
 
     cout << studentObj.getRegNo() << "\n";
     cout << studentObj.course;
