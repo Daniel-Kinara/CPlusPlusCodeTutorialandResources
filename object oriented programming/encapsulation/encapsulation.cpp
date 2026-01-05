@@ -19,10 +19,7 @@ public:
         regNo = reg;
     }
 
-    string getRegNo()
-    {
-        return regNo;
-    }
+    string getRegNo(){return regNo;}
 };
 
 int main()
