@@ -65,7 +65,7 @@ string name::nameFunc(string myName)
 int main()
 {
     name nameObj;
-    cout << nameObj.nameFunc("Omillo");
+    cout << nameObj.nameFunc("Kinara");
 
     return 0;
 }
